@@ -51,10 +51,12 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            I have been working at Automated Systems in Aircraft Performance, Inc.
+            as an Aircraft Performance Engineer and Software Developer since June of 2017. 
+            My roles at this position have included developing and maintaining frontend
+            and backend source code along wih custom aircraft performance optimization
+            techniques that handle real time calculations related to takeoff and landing 
+            analysis. 
           </p>
           <p>
             Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
@@ -99,7 +101,7 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact</h2>
-          <form method="post" action="#">
+          <form method="post" action="https://getform.io/f/9b534d55-f1a1-46e0-a964-44f70fae5c0d">
             <div className="field half first">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
